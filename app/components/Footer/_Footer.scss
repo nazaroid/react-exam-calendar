@@ -1,0 +1,11 @@
+@import "toolkit";
+
+.footer {
+  border-top: 1px solid #eee;
+  display: flex; // testing Autoprefixer
+  font-size: inherit;
+  position: absolute;
+  bottom: 20px;
+  padding-top: 20px;
+  opacity: 0.5
+}
